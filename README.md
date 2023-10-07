@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Codewars](https://www.codewars.com/users/stereodamage/badges/large "Codewars")
+
 <!--
 **stereodamage/stereodamage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
