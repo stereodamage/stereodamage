@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+- 🇷🇸 I live in Belgrade, Serbia (GMT+1) (subject to change!)
+- 🐍 I develop features at ToYou.
+- 🤖 I write code for 7+ years, most of the time on Python. Sometimes Go and JavaScript.
+- 🚀 I love open-source projects. Sometimes I try to contribute, but there is always little time.
+- ✉️ You can shoot me an email at stereoad@proton.me.
+
+### Looking for next adventure! [Check out my CV](https://github.com/user-attachments/files/19274978/artem-demidov-cv-25-latest.pdf)
 
 ![Codewars](https://www.codewars.com/users/stereodamage/badges/large "Codewars")
 
