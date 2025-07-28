@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🇷🇸 I live in Netherlands (GMT+1)
+- 🇳🇱 I live in Netherlands (GMT+1)
 - 🐍 I develop features at bloomon.
 
 ![Codewars](https://www.codewars.com/users/stereodamage/badges/large "Codewars")
