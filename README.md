@@ -2,10 +2,6 @@
 
 - 🇷🇸 I live in Netherlands (GMT+1)
 - 🐍 I develop features at bloomon.
-- 🤖 I write code for 7+ years, most of the time on Python. Sometimes Go and JavaScript.
-- 🚀 I love open-source projects. Sometimes I try to contribute, but there is always little time.
-- ✉️ You can shoot me an email at stereoad@proton.me.
-
 
 ![Codewars](https://www.codewars.com/users/stereodamage/badges/large "Codewars")
 
